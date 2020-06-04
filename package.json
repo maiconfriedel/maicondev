@@ -9,6 +9,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "disqus-react": "^1.0.8",
     "gatsby": "^2.22.15",
     "gatsby-plugin-mdx": "^1.2.14",
     "gatsby-theme-blog": "^1.6.31",
