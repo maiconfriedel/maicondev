@@ -7,17 +7,18 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `MaiconDev`,
+    author: `Maicon Gabriel Friedel`,
+    description: `Blog Pessoal do Maicon Gabriel Friedel`,
+    siteUrl: "https://github.com/maiconfriedel",
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        name: `Github`,
+        url: `https://github.com/maiconfriedel`,
       },
       {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        name: `Instagram`,
+        url: `https://instagram.com/maicon_friedel`,
       },
     ],
   },
